@@ -1,5 +1,4 @@
 const express = require("express")
+app = express();
 
-const app = express()  //server create kiya 
-
-app.listen(3000)  // server start kiya
+app.listen(3000)
